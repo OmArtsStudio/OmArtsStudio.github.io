@@ -19,7 +19,7 @@
                       {{ else }}
                       <div class="box-masonry-text">
                       {{ end }}
-                          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                          <h4 class="concert-one-regular"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">
                             <p>
                                 {{ if .Description }}
@@ -28,6 +28,9 @@
                                   {{ .Summary }}
                                 {{ end }}
                             </p>
+                            <button class="tab-button">
+                              <a href="{{ .Permalink }}">More</a>
+                            </button>
                           </div>
                       </div>
                   </div>

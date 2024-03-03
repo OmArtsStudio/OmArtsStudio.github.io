@@ -1,8 +1,32 @@
 /* your styles go here */
+
 .carousel-item {
-    width: 20em;
-    height: 20em;
+  width: 360px;
+  height: 360px;
 }
-.carousel-item img{
-    max-width:100%;
+.carousel-item img {
+  height: 100%;
+}
+h4.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  letter-spacing: 0em;
+  font-size: 24px;
+}
+.tab-button {
+  background-color: maroon;
+  border-radius: 2rem;
+  padding: 2px 8px;
+  border: 1px;
+  display: flex;
+  align-items: center;
+}
+.tab-button a {
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+}
+.small-navbar-heading a {
+  color: maroon;
 }

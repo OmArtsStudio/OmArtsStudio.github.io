@@ -3,18 +3,20 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-Hi, I am **Tejas Tandel** 
+![This is me](/img/me.jpeg)
 
-![This is me][me]
+Welcome!
 
-<!-- #### Work
+Hey, I’m Tejas Tandel ! I’m a freelance artist  who loves to make any type of artwork from abstracts to realism.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+I started making art with our team because I love drawing, being creative, and expressing myself in other ways.
 
-#### Education
+I believe in supporting my clients through every step of their journey, from the initial consultation to providing feedback on the final product.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus. -->
+I hope to inspire you with our work!
 
-[me]: /img/me.jpeg
+#### Our team
+
+- Abhishek patil 
+- Amey katale 
+- Nayan tandel

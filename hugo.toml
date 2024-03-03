@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://omartsstudio.github.io/"
 title = "OM Arts Studio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-in"
@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "red"
+  style = "green"
   description = "This website showcases work of OM Arts Studio including eco-friendly Mrtis, Caricatures and other creative art products"
   copyright = "&copy;2023 Tejas Tandel"
   sidebarAbout = [
